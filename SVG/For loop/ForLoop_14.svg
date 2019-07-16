@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1105.5 568.2" style="enable-background:new 0 0 1105.5 568.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0EFEF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#65BE91;}
+	.st3{font-family:'Consolas-Bold';}
+	.st4{font-size:28px;}
+	.st5{fill:#CEC5BF;}
+	.st6{fill:#E48233;}
+	.st7{fill:none;stroke:#65BE91;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{fill:#231815;}
+	.st10{font-family:'Consolas';}
+	.st11{font-size:24px;}
+	.st12{letter-spacing:22;}
+	.st13{fill:#086291;}
+	.st14{fill:#0B6291;}
+	.st15{fill:#040000;}
+	.st16{fill:#CCCCCC;}
+	.st17{fill:none;stroke:#231815;stroke-miterlimit:10;}
+	.st18{fill:#D0302D;}
+</style>
+<rect id="XMLID_5_" x="0" y="-1" class="st0" width="1106" height="569.2"/>
+<g id="XMLID_82_">
+	<rect id="XMLID_79_" x="20.3" y="64.8" class="st1" width="682.9" height="406.3"/>
+	<g id="XMLID_74_">
+		<path id="XMLID_76_" class="st2" d="M702.7,65.3v405.3H20.8V65.3H702.7 M703.7,64.3H19.8v407.3h683.9V64.3L703.7,64.3z"/>
+	</g>
+</g>
+<g id="XMLID_75_">
+	<rect id="XMLID_73_" x="727.1" y="64.8" class="st1" width="340.9" height="253.5"/>
+	<g id="XMLID_69_">
+		<path id="XMLID_70_" class="st2" d="M1067.5,65.3v252.5H727.6V65.3H1067.5 M1068.5,64.3H726.6v254.5h341.9V64.3L1068.5,64.3z"/>
+	</g>
+</g>
+<g id="XMLID_68_">
+	<rect id="XMLID_66_" x="727.1" y="368.3" class="st1" width="344.5" height="175.7"/>
+	<g id="XMLID_57_">
+		<path id="XMLID_58_" class="st2" d="M1071.1,368.8v174.7H727.6V368.8H1071.1 M1072.1,367.8H726.6v176.7h345.5V367.8L1072.1,367.8z
+			"/>
+	</g>
+</g>
+<g id="XMLID_64_">
+	<rect id="XMLID_54_" x="20.3" y="486" class="st1" width="682.9" height="57.9"/>
+	<g id="XMLID_44_">
+		<path id="XMLID_48_" class="st2" d="M702.7,486.5v56.9H20.8v-56.9H702.7 M703.7,485.5H19.8v58.9h683.9V485.5L703.7,485.5z"/>
+	</g>
+</g>
+<rect id="XMLID_60_" x="19.8" y="29.3" class="st2" width="683.9" height="35"/>
+<rect id="XMLID_59_" x="726.6" y="29.3" class="st2" width="341.9" height="35"/>
+<g id="XMLID_56_">
+	<text id="XMLID_87_" transform="matrix(1 0 0 1 32.3696 57.9404)" class="st1 st3 st4">Code</text>
+</g>
+<rect id="XMLID_43_" x="726.6" y="332.8" class="st2" width="345.5" height="35"/>
+<polygon id="XMLID_41_" class="st5" points="70.2,354.2 48.5,354.2 48.5,344.2 69.4,344.2 79,349.2 "/>
+<polygon id="XMLID_42_" class="st6" points="70.2,409.5 48.5,409.5 48.5,399.5 69.4,399.5 79,404.5 "/>
+<line id="XMLID_40_" class="st7" x1="79" y1="70.6" x2="79" y2="461.9"/>
+<g id="XMLID_16_">
+	<text id="XMLID_88_" transform="matrix(1 0 0 1 742.5193 55.8789)" class="st1 st3 st4">Memory</text>
+</g>
+<g id="XMLID_12_">
+	<text id="XMLID_89_" transform="matrix(1 0 0 1 742.5193 359.421)" class="st1 st3 st4">Screen</text>
+</g>
+<rect id="XMLID_102_" x="94" y="73.9" class="st8" width="586.7" height="388"/>
+<text id="XMLID_3_" transform="matrix(1 0 0 1 93.981 93.5093)"><tspan x="0" y="0" class="st9 st10 st11">#include &lt;stdio.h&gt;</tspan><tspan x="0" y="28.8" class="st9 st10 st11">int main()</tspan><tspan x="0" y="57.6" class="st9 st10 st11">{</tspan><tspan x="0" y="86.4" class="st9 st10 st11 st12">	</tspan><tspan x="36" y="86.4" class="st13 st10 st11">int </tspan><tspan x="88.8" y="86.4" class="st9 st10 st11">i,sum = 0;</tspan><tspan x="0" y="144" class="st9 st10 st11 st12">	</tspan><tspan x="36" y="144" class="st9 st10 st11">for(i = 1; i &lt;= 3; i++)</tspan><tspan x="0" y="172.8" class="st9 st10 st11 st12">	</tspan><tspan x="36" y="172.8" class="st9 st10 st11">{</tspan><tspan x="0" y="201.6" class="st9 st10 st11 st12">		</tspan><tspan x="72" y="201.6" class="st9 st10 st11">sum += i;</tspan><tspan x="0" y="230.4" class="st9 st10 st11 st12">	</tspan><tspan x="36" y="230.4" class="st9 st10 st11">}</tspan><tspan x="0" y="259.2" class="st9 st10 st11 st12">	</tspan><tspan x="36" y="259.2" class="st9 st10 st11">printf(&quot;</tspan><tspan x="141.6" y="259.2" class="st13 st10 st11">%d</tspan><tspan x="168" y="259.2" class="st9 st10 st11">\n&quot;,sum);</tspan><tspan x="0" y="316.8" class="st9 st10 st11 st12">	</tspan><tspan x="36" y="316.8" class="st14 st10 st11">return 0</tspan><tspan x="141.6" y="316.8" class="st9 st10 st11">;</tspan><tspan x="0" y="345.6" class="st9 st10 st11">}</tspan></text>
+<path id="XMLID_x5F_29_x5F_" class="st8" d="M48.5,523.5h632.1"/>
+<text id="XMLID_10_"><textPath  xlink:href="#XMLID_x5F_29_x5F_" startOffset="5.505%">
+<tspan  class="st15 st10 st11">Program terminates</tspan></textPath>
+</text>
+<rect id="XMLID_17_" x="762.5" y="78.6" class="st8" width="100" height="86.7"/>
+<line id="XMLID_13_" class="st8" x1="762.5" y1="121.9" x2="862.6" y2="121.9"/>
+<rect id="XMLID_95_" x="762.5" y="86.9" class="st8" width="100" height="27"/>
+<text id="XMLID_18_" transform="matrix(1 0 0 1 805.9551 106.519)" class="st15 st10 st11">i</text>
+<rect id="XMLID_65_" x="762.5" y="130" class="st8" width="100" height="27"/>
+<text id="XMLID_20_" transform="matrix(1 0 0 1 792.7598 149.6998)" class="st15 st10 st11">sum</text>
+<rect id="XMLID_24_" x="862.6" y="79" class="st16" width="131.1" height="86.2"/>
+<g id="XMLID_1_">
+	<rect id="XMLID_4_" x="862.6" y="78.6" class="st17" width="131.1" height="86.7"/>
+	<line id="XMLID_7_" class="st17" x1="862.6" y1="121.9" x2="993.7" y2="121.9"/>
+</g>
+<rect id="XMLID_50_" x="862.6" y="86.9" class="st8" width="131.1" height="27"/>
+<text id="XMLID_25_" transform="matrix(1 0 0 1 921.5141 106.519)" class="st18 st10 st11">4</text>
+<rect id="XMLID_46_" x="862.6" y="129.8" class="st8" width="131.1" height="27"/>
+<text id="XMLID_27_" transform="matrix(1 0 0 1 921.5141 149.4427)" class="st18 st10 st11">6</text>
+<rect id="XMLID_37_" x="726.6" y="367.8" class="st8" width="345.5" height="176.7"/>
+<rect id="XMLID_35_" x="742.5" y="374.7" class="st8" width="329.6" height="169.8"/>
+<text id="XMLID_6_" transform="matrix(1 0 0 1 742.5195 394.3408)" class="st10 st11">6</text>
+</svg>
