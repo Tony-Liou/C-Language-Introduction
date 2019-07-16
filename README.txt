@@ -10,15 +10,14 @@ This is for static website. Can works on frontend.
 ### The css files are reference to W3C(World Wide Web Consortium).
 	Version of all css files is css3.
 	
-### The js folder contains pure javascript files. In other words, there are 
-	not any jQuery, Angular.js, Node.js, etc. No javascript libirary.
+### The js folder contains pure javascript files.
 
-## The images folder contains some icons are used to decorate the website 
+## The images folder contains some icons that are used to decorate the website 
 	so that users can browse it intuitively.
 
-## The SVG folder contains all Scalable Vector Graphics belong to 
-	individual chapter.
-	All svg files were made by AI(Adobe Illustrator CC).
+## The SVG folder contains Scalable Vector Graphics corresponding to 
+	individual chapters.
+	All svg files were made by AI(Adobe Illustrator).
 	
 # Copyright and licensing information
 
@@ -26,19 +25,14 @@ This is for static website. Can works on frontend.
 
 ## Ownership belongs to Professor Lai
 
-# Contact information for the programmer
+# Known issue
 
-E-mail: ltony1024@yahoo.com.tw
-Github: https://github.com/Tony-Liou
-
-# Known bugs
-
-## RWD is uncompleted. So something may be not fit for every browser.
+## RWD is uncompleted.
 
 # Credits and acknowledgments
 
 ## This website is reference to HTML5 UP(https://html5up.net/).
-	Some css is rewrite by Spectral.
+	Some css files are rewrite from Spectral.
 	
 # Changelog
 
@@ -46,10 +40,10 @@ v1
 This is the first release.
 
 v2
-Replace the cotrol panel in the bottom(from text to icon)
+Replace the control panel in the bottom(from text to icon)
 
 v3
-Use js to control the svg file(ex. change explanation, arrow)
+Use js to control the svg files(ex. change explanation, arrow)
 
 Configuration instructions (設置指南)
 Installation instructions (安裝指南)
